@@ -1,0 +1,42 @@
+#formulario{
+
+    height: 300px;
+    width: 400px;
+    background-color: black;
+    text-align: center;
+    margin: auto;
+    color: blanchedalmond;
+}
+
+h2{
+    font-size: 30px;
+
+
+}
+body{
+    background-image: url(../IMG/IMAGEM\ FORM12\ 08.jpg);
+}
+
+input ::placeholder{
+    color: blanchedalmond;
+
+}
+
+a{
+    color: blanchedalmond;
+    text-decoration: none;
+}
+
+button{
+height: 30px;
+width: 40%;
+margin-bottom: 10px;
+background-color:bisque;
+border: none;
+color: cornsilk;
+
+}
+
+button: :hover{
+
+}
